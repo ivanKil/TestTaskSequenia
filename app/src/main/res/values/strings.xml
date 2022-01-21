@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Фильмы</string>
+    <string name="dont_know">неизвестно</string>
+    <string name="err">Ошибка получения данных</string>
+    <string name="year">Год: %1$s</string>
+    <string name="rating">Рейтинг: %1$s</string>
+    <string name="genres">Жанры</string>
+    <string name="films">Фильмы</string>
+    <string name="repeat">Попробовать ещё раз</string>
+</resources>
